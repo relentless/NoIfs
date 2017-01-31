@@ -1,0 +1,5 @@
+C:\Programming\NoIfs\Examples\IfPreventingAbstraction\bin\Debug\IfPreventingAbstraction.dll
+C:\Programming\NoIfs\Examples\IfPreventingAbstraction\bin\Debug\IfPreventingAbstraction.pdb
+C:\Programming\NoIfs\Examples\IfPreventingAbstraction\obj\Debug\IfPreventingAbstraction.csprojResolveAssemblyReference.cache
+C:\Programming\NoIfs\Examples\IfPreventingAbstraction\obj\Debug\IfPreventingAbstraction.dll
+C:\Programming\NoIfs\Examples\IfPreventingAbstraction\obj\Debug\IfPreventingAbstraction.pdb

@@ -1,0 +1,10 @@
+C:\Programming\NoIfs\Examples\IfReplacementExamples\bin\Debug\IfReplacementExamples.dll
+C:\Programming\NoIfs\Examples\IfReplacementExamples\bin\Debug\IfReplacementExamples.pdb
+C:\Programming\NoIfs\Examples\IfReplacementExamples\obj\Debug\ConditionalOverType.csprojResolveAssemblyReference.cache
+C:\Programming\NoIfs\Examples\IfReplacementExamples\obj\Debug\IfReplacementExamples.dll
+C:\Programming\NoIfs\Examples\IfReplacementExamples\obj\Debug\IfReplacementExamples.pdb
+C:\Programming\NoIfs\Examples\ConditionalOverType\bin\Debug\IfReplacementExamples.dll
+C:\Programming\NoIfs\Examples\ConditionalOverType\bin\Debug\IfReplacementExamples.pdb
+C:\Programming\NoIfs\Examples\ConditionalOverType\obj\Debug\ConditionalOverType.csprojResolveAssemblyReference.cache
+C:\Programming\NoIfs\Examples\ConditionalOverType\obj\Debug\IfReplacementExamples.dll
+C:\Programming\NoIfs\Examples\ConditionalOverType\obj\Debug\IfReplacementExamples.pdb

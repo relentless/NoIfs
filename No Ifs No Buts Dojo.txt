@@ -1,0 +1,37 @@
+Why Ifs Bad
+
+- Not *always* bad..
+- Maintenance/readability problem
+- Nested and multiple If/Elses real problem
+- Switch statement has same problems
+- Conditional operator has same problems
+
+- Cyclomatic Complexity counts code paths (conditionals)
+- Anti-If Campaign: http://cirillocompany.de/pages/anti-if-campaign
+
+
+- Conditionals over types -> polymorphism
+- Code in different places same except for conditional -> predicate
+- Options hard coded -> dictionary
+- Overly imperative style -> declarative style
+
+Quotes
+
+Michael feathers: "Control structures have been around nearly as long as programming but it's hard for me to see them as more than an annoyance.  Over and over again, I find that better code has fewer if-statements, fewer switches, and fewer loops."
+
+Phil Haack: "We don’t need to try and kill every if statement, but perhaps the more we do, the better our code becomes."
+
+
+Alternatives
+
+- Dictionaries
+- Strategy Pattern
+- Object Orientation (Replace Conditional with Polymorphism)
+- High order functions (e.g. Predicates)
+- Filtering (e.g. where function)
+
+Exercises
+
+- FizzBuzz
+- Tic Tac Toe bot
+- Gilded Rose kata

@@ -1,0 +1,5 @@
+C:\Programming\NoIfs\Examples\SameIfRepeated\obj\Debug\SameIfRepeated.csprojResolveAssemblyReference.cache
+C:\Programming\NoIfs\Examples\SameIfRepeated\bin\Debug\SameIfRepeated.dll
+C:\Programming\NoIfs\Examples\SameIfRepeated\bin\Debug\SameIfRepeated.pdb
+C:\Programming\NoIfs\Examples\SameIfRepeated\obj\Debug\SameIfRepeated.dll
+C:\Programming\NoIfs\Examples\SameIfRepeated\obj\Debug\SameIfRepeated.pdb

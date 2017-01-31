@@ -1,0 +1,9 @@
+C:\Programming\NoIfs\Examples\Filtering\bin\Debug\Filtering.dll
+C:\Programming\NoIfs\Examples\Filtering\bin\Debug\Filtering.pdb
+C:\Programming\NoIfs\Examples\Filtering\obj\Debug\Filtering.dll
+C:\Programming\NoIfs\Examples\Filtering\obj\Debug\Filtering.pdb
+C:\Programming\NoIfs\Examples\MultipleHardCodedIfs\bin\Debug\Filtering.dll
+C:\Programming\NoIfs\Examples\MultipleHardCodedIfs\bin\Debug\Filtering.pdb
+C:\Programming\NoIfs\Examples\MultipleHardCodedIfs\obj\Debug\MultipleHardCodedIfs.csprojResolveAssemblyReference.cache
+C:\Programming\NoIfs\Examples\MultipleHardCodedIfs\obj\Debug\Filtering.dll
+C:\Programming\NoIfs\Examples\MultipleHardCodedIfs\obj\Debug\Filtering.pdb
